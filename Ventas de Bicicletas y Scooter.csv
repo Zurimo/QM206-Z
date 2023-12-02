@@ -1,11 +1,11 @@
-Fecha;Producto ;Unidades ;Ganancias 
-Marzo;Bicicletas;478;751.604
-Marzo;Bicicletas ;600;880.55
-Marzo;Scooter;500;427.248
-Abril;Scooter;390;300.513
-Abril;Bicicletas;200;230.901
-Abril;Bicicletas;400;450.679
-Mayo;Bicicletas;458;560.235
-Mayo;Scooter;234;299.903
-Mayo;Bicicletas;190;581.35
-Mayo;Scooter;100;48.513
+Fecha, ,Unidades ,Ganancias 
+Marzo,478,7516
+Marzo,600,8805
+Marzo,500,4272
+Abril,390,3005
+Abril,200,2309
+Abril,400,4506
+Mayo,458,5602
+Mayo,234,2999
+Mayo,190,5813
+Mayo,100,4851
